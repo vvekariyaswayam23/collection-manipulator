@@ -71,39 +71,51 @@ Student-Data-Organizer/
 
 ## 🏠 Main Menu
 
-![Main Menu](Screenshot%202026-06-26%20122555(2).png)
+![Main Menu]
 
----
+<img width="1039" height="175" alt="Screenshot 2026-06-26 231354" src="https://github.com/user-attachments/assets/ff7cf4bf-1878-4463-90d8-74d2c1d335b7" />
+
 
 ## ➕ Add Student
 
-![Add Student](Screenshot%202026-06-26%20122729(2).png)
+![Add Student]
 
----
+<img width="1043" height="574" alt="Screenshot 2026-06-26 122555" src="https://github.com/user-attachments/assets/63a7d40e-5b34-41c2-81a2-3f6fe342a267" />
+
 
 ## 📋 Display Students
 
-![Display Student](Screenshot%202026-06-26%20122948(2).png)
+![Display Student]
 
----
+<img width="1032" height="398" alt="Screenshot 2026-06-26 122729" src="https://github.com/user-attachments/assets/25c309ec-74de-442e-a1f1-e5925db0477c" />
+
 
 ## ✏️ Update Student
 
-![Update Student](Screenshot%202026-06-26%20123138(2).png)
+![Update Student]
 
----
+<img width="1034" height="623" alt="Screenshot 2026-06-26 122948" src="https://github.com/user-attachments/assets/2474544b-0f08-4064-bc94-43cac4ca63d2" />
+
 
 ## 🗑 Delete Student
 
-![Delete Student](Screenshot%202026-06-26%20123235(2).png)
+![Delete Student]
 
----
+<img width="1039" height="494" alt="Screenshot 2026-06-26 123138" src="https://github.com/user-attachments/assets/af56120f-4eb5-4b26-9dd7-5044102d7ef3" />
+
 
 ## 📚 Display Subjects
 
-![Subjects](Screenshot%202026-06-26%20123525(2).png)
+![Subjects]
 
----
+<img width="1040" height="251" alt="Screenshot 2026-06-26 123235" src="https://github.com/user-attachments/assets/f46e7238-2b41-4960-b291-be8f74b17a8e" />
+
+##   Exit
+![Exit]
+
+<img width="1034" height="171" alt="Screenshot 2026-06-26 123525" src="https://github.com/user-attachments/assets/c43182bb-fbb5-445f-b4a4-84abc85e4c78" />
+
+
 
 # ▶️ Demo Video
 
